@@ -1,0 +1,12 @@
+﻿  Gato.cpp
+C:\Users\alici\Desktop\HappyPets\NavesL4\NavesL4\Gato.cpp(9,57): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alici\Desktop\HappyPets\NavesL4\NavesL4\Gato.cpp(9,50): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alici\Desktop\HappyPets\NavesL4\NavesL4\Gato.cpp(12,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alici\Desktop\HappyPets\NavesL4\NavesL4\Gato.cpp(12,69): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alici\Desktop\HappyPets\NavesL4\NavesL4\Gato.cpp(16,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alici\Desktop\HappyPets\NavesL4\NavesL4\Gato.cpp(16,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alici\Desktop\HappyPets\NavesL4\NavesL4\Gato.cpp(29,79): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alici\Desktop\HappyPets\NavesL4\NavesL4\Gato.cpp(29,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alici\Desktop\HappyPets\NavesL4\NavesL4\Gato.cpp(33,78): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alici\Desktop\HappyPets\NavesL4\NavesL4\Gato.cpp(33,71): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  NavesL4.vcxproj -> C:\Users\alici\Desktop\HappyPets\NavesL4\Debug\HappyPets.exe
